@@ -1,0 +1,22 @@
+:root{
+    --primary-color: #87281B;
+    --seccondary-color: #266C62 ;
+    --background-color: #508A8C;
+    --text-color: #D4C78F;
+    --danger-color: #D2431B;
+}
+
+<img src="Logo.png" alt="Logo">
+
+Every Brand Has a Story — We Shape the Arc
+
+
+Brochure
+Typhograph
+Poster
+Pixel Art
+Logo
+Label
+Mind Mapping
+
+
